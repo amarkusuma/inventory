@@ -10,8 +10,7 @@
 3. jalankan perintah php artisan migrate
 
 4. jalankan perintah php artisan db:seed --class=insert_user 
-   lalu login dengan username: amar & password: amar123
-   atau lihat di seeder file insert_user
+   lalu pilih login dengan melihat data user di seeder file insert_user
    
 5. jalankan perintah php artisan db:seed --class=insert_master_barang
    agar memiliki default data barang atau bisa input manual 
